@@ -13,7 +13,7 @@ Role: Handles content creation, including copywriting, blogging, and content str
 Role: Manages social media marketing campaigns, schedules and optimizes posts, and engages with followers.
 ### SEO Expert Agent
 Role: Implements SEO strategies, conducts keyword research, and optimizes website content and structure.
-## Technologies Used
+# Technologies Used
 ### LangChain: Used to create and manage the agents.
 ### CrewAI: Coordinates the tasks among agents, ensuring seamless digital marketing operations.
 ### Google Gemini LLM: Provides the language model for the agents, enabling them to generate insights, content, and strategies.
@@ -21,11 +21,7 @@ Role: Implements SEO strategies, conducts keyword research, and optimizes websit
 ### Installation
 To get started, clone the repository and install the necessary dependencies.
 Make sure to set up your environment variables, especially the API key for Google Gemini.
-The project is designed to be highly modular, allowing you to add or modify agents and tasks as needed. Below is an example of how to run the project:
-
-python
-Copy code
-from crewai import Crew
+The project is designed to be highly modular, allowing you to add or modify agents and tasks as needed.
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request if you have any improvements or fixes.
