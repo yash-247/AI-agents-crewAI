@@ -1,6 +1,6 @@
 # Digital Marketing Automation with LangChain & CrewAI
 ## Overview
-This project leverages LangChain and CrewAI to automate various aspects of digital marketing for YouExpress. The automation focuses on enhancing a brand's online presence, customer loyalty, and digital marketing strategies through the use of specialized agents, each responsible for different facets of digital marketing.
+This project leverages LangChain and CrewAI to automate various aspects of digital marketing. The automation focuses on enhancing a brand's online presence, customer loyalty, and digital marketing strategies through the use of specialized agents, each responsible for different facets of digital marketing.
 
 ## Project Structure
 The project is organized around four key agents, each fulfilling a specific role in the digital marketing workflow:
